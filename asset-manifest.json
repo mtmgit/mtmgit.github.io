@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73f82de6.css",
+    "main.js": "/static/js/main.b6ee5a79.js",
+    "static/js/787.5db4a399.chunk.js": "/static/js/787.5db4a399.chunk.js",
+    "static/media/expert.jpg": "/static/media/expert.a1dc6ff4d1534e28b768.jpg",
+    "static/media/construction2.jpg": "/static/media/construction2.77779a574672fbb4a086.jpg",
+    "static/media/automotive1.jpg": "/static/media/automotive1.884ff10760334f0783a1.jpg",
+    "static/media/startermotor.jpg": "/static/media/startermotor.c2abaaae596a379936f1.jpg",
+    "static/media/exhaustmanifold.jpg": "/static/media/exhaustmanifold.d656bd81736740f86673.jpg",
+    "static/media/automotive3.jpg": "/static/media/automotive3.6b9f929a6da8c13dec5a.jpg",
+    "static/media/accompressor.jpg": "/static/media/accompressor.b8bc5e428d3b9941a232.jpg",
+    "static/media/electric1.jpg": "/static/media/electric1.9bf7411c17f4208e060d.jpg",
+    "static/media/electric3.jpg": "/static/media/electric3.487da5eacd3b91cf7ec3.jpg",
+    "static/media/breakcaliper.jpg": "/static/media/breakcaliper.caecda2d9530a7f155ba.jpg",
+    "static/media/brokencar.jpg": "/static/media/brokencar.a8832132cbaa8969e82c.jpg",
+    "static/media/ignitioncoil.jpg": "/static/media/ignitioncoil.2d7a9e86933a8dfe952a.jpg",
+    "static/media/construction1.jpg": "/static/media/construction1.fdf673360d9536bdc9ff.jpg",
+    "static/media/rotorbrake.jpg": "/static/media/rotorbrake.90abbe33bf5daa9ad554.jpg",
+    "static/media/cylinderhead.jpg": "/static/media/cylinderhead.da9ab2b8c8a7edb4dd70.jpg",
+    "static/media/automotive2.jpg": "/static/media/automotive2.a8b4e48ba37f5193f034.jpg",
+    "static/media/aelogo-removebg-preview.png": "/static/media/aelogo-removebg-preview.e8fafc672ed6b3c14b08.png",
+    "static/media/construction3.jpg": "/static/media/construction3.47550f4d0339610e1c46.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.73f82de6.css.map": "/static/css/main.73f82de6.css.map",
+    "main.b6ee5a79.js.map": "/static/js/main.b6ee5a79.js.map",
+    "787.5db4a399.chunk.js.map": "/static/js/787.5db4a399.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73f82de6.css",
+    "static/js/main.b6ee5a79.js"
+  ]
+}
