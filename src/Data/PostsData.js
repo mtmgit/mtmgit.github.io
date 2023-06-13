@@ -6,9 +6,9 @@ import postPic3 from '../img/brokencar.jpg'
 export const PostsData = [
     {
         img: postPic1,
-        name: 'High-Quality Used Brake Rotor for Sale - Excellent Condition!',
-        desc: "Whether you're a DIY enthusiast looking to upgrade your vehicle or a professional mechanic in need of a reliable replacement, this used Brake Rotor is a fantastic choice. Don't miss out on this opportunity to enhance your braking system at an affordable price.",
-        likes: 1400,
+        name: '2020 Nissan Infinity driver side mirror - navy blue for sale - no paint chips',
+        desc: "Part works great, replaced flange and customer wanted new one.",
+        likes: 350,
         liked: true
     },
     {
