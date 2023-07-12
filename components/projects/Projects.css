@@ -1,0 +1,50 @@
+.textWrapperHorizontalProjects {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 4rem;
+  margin-bottom: calc(90px + 1rem);
+  /*gap: 2rem;*/
+}
+
+.userForm {
+  width: 962px;
+}
+
+.btn-label {
+  width: 100%;
+  border-style: solid;
+  border-right: none;
+  border-left: none;
+  border-bottom: none;
+  border-color: #cccccc;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0;
+}
+
+.btn-label:hover {
+  background-color: #c1c7cd;
+}
+
+.btn-label:active {
+  border-right: solid;
+  border-left: solid;
+  border-bottom: solid;
+  border-color: mediumblue;
+}
+
+.btn-title {
+  padding: 1rem;
+  width: 98%;
+  display: flex;
+  margin-bottom: 0;
+  justify-content: space-between;
+}
+
+@media (max-width: 767px) {
+  .userForm {
+    width: 90%;
+  }
+}

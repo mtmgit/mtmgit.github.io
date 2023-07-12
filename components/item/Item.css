@@ -1,0 +1,33 @@
+.grid-item {
+  text-align: center;
+}
+
+.grid-item:hover{
+  cursor: pointer;
+}
+
+.grid-item img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+}
+
+.bottom-btns {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.bottom-btns button {
+  background-color: #1890ff;
+  color: white;
+  border-radius: 0.5rem;
+  border: none;
+}
+
+@media (max-width: 767px) {
+  .contact-btn {
+    display: none;
+  }
+}

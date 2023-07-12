@@ -1,0 +1,43 @@
+.textWrapperHorizontalAccount {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: calc(90px + 1rem);
+  /*gap: 2rem;*/
+  width: 962px;
+}
+
+.txt-plane {
+  border-top: 2px solid #cccccc;
+  background-color: #fafafa;
+  padding: 1rem;
+}
+
+.txt-plane-btns {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+
+.txt-plane-btns:hover {
+  cursor: pointer;
+}
+
+.header-zone {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+
+.header-zone img {
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+  border: 1px solid #cccccc;
+}
+
+@media (max-width: 767px){
+  .textWrapperHorizontalAccount {
+    width: auto;
+  }
+}
